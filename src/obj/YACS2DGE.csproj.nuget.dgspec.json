@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/home/aexyzk/RandomGameRealx3/YACS2DGE.csproj": {}
+    "C:\\Users\\aexyzk\\Desktop\\RandomGame\\src\\YACS2DGE.csproj": {}
   },
   "projects": {
-    "/home/aexyzk/RandomGameRealx3/YACS2DGE.csproj": {
+    "C:\\Users\\aexyzk\\Desktop\\RandomGame\\src\\YACS2DGE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/aexyzk/RandomGameRealx3/YACS2DGE.csproj",
+        "projectUniqueName": "C:\\Users\\aexyzk\\Desktop\\RandomGame\\src\\YACS2DGE.csproj",
         "projectName": "YACS2DGE",
-        "projectPath": "/home/aexyzk/RandomGameRealx3/YACS2DGE.csproj",
-        "packagesPath": "/home/aexyzk/.nuget/packages/",
-        "outputPath": "/home/aexyzk/RandomGameRealx3/obj/",
+        "projectPath": "C:\\Users\\aexyzk\\Desktop\\RandomGame\\src\\YACS2DGE.csproj",
+        "packagesPath": "C:\\Users\\aexyzk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aexyzk\\Desktop\\RandomGame\\src\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/aexyzk/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\aexyzk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -54,22 +56,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.26, 6.0.26]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.linux-x64",
-              "version": "[6.0.26, 6.0.26]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

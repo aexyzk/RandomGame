@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("YACS2DGE")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ce19df838bf1e6fa286404115b7c3decdfbcb98")]
 [assembly: System.Reflection.AssemblyProductAttribute("YACS2DGE")]
 [assembly: System.Reflection.AssemblyTitleAttribute("YACS2DGE")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

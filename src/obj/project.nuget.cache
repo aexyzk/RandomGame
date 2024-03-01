@@ -1,17 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "PBo//WJS6Ke4ENSPT/DQCzq6PHyhrMRf6pCSkD/fA8tFDpMbWe1iUjHl6LD/KHBZJ9+C7kaWZtfyMZRWHg7Djw==",
+  "dgSpecHash": "T1GoRvEkFeVq68Yolq/f3KnLrjblAODnCOD2rNa336sMP5i6Um5vHFVIM6m/kmshFf5+Q5M8OplsOqP/vPaKwQ==",
   "success": true,
-  "projectFilePath": "/home/aexyzk/RandomGameRealx3/YACS2DGE.csproj",
+  "projectFilePath": "C:\\Users\\aexyzk\\Desktop\\RandomGame\\src\\YACS2DGE.csproj",
   "expectedPackageFiles": [
-    "/home/aexyzk/.nuget/packages/csfml/2.5.2/csfml.2.5.2.nupkg.sha512",
-    "/home/aexyzk/.nuget/packages/sfml.audio/2.5.1/sfml.audio.2.5.1.nupkg.sha512",
-    "/home/aexyzk/.nuget/packages/sfml.graphics/2.5.1/sfml.graphics.2.5.1.nupkg.sha512",
-    "/home/aexyzk/.nuget/packages/sfml.net/2.5.1/sfml.net.2.5.1.nupkg.sha512",
-    "/home/aexyzk/.nuget/packages/sfml.system/2.5.1/sfml.system.2.5.1.nupkg.sha512",
-    "/home/aexyzk/.nuget/packages/sfml.window/2.5.1/sfml.window.2.5.1.nupkg.sha512",
-    "/home/aexyzk/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.26/microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
-    "/home/aexyzk/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.26/microsoft.netcore.app.host.linux-x64.6.0.26.nupkg.sha512"
+    "C:\\Users\\aexyzk\\.nuget\\packages\\csfml\\2.5.2\\csfml.2.5.2.nupkg.sha512",
+    "C:\\Users\\aexyzk\\.nuget\\packages\\sfml.audio\\2.5.1\\sfml.audio.2.5.1.nupkg.sha512",
+    "C:\\Users\\aexyzk\\.nuget\\packages\\sfml.graphics\\2.5.1\\sfml.graphics.2.5.1.nupkg.sha512",
+    "C:\\Users\\aexyzk\\.nuget\\packages\\sfml.net\\2.5.1\\sfml.net.2.5.1.nupkg.sha512",
+    "C:\\Users\\aexyzk\\.nuget\\packages\\sfml.system\\2.5.1\\sfml.system.2.5.1.nupkg.sha512",
+    "C:\\Users\\aexyzk\\.nuget\\packages\\sfml.window\\2.5.1\\sfml.window.2.5.1.nupkg.sha512"
   ],
   "logs": []
 }

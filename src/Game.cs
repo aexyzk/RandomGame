@@ -22,7 +22,7 @@ namespace YACS2DGE{
             bullets = new List<Rect2D>();
             CurReloadTime = ReloadTime;
 
-            Level.InitLevel();
+            //Level.InitLevel(new Vector2(-1, 0), "block", new Vector2(1,1));
         }
 
         public override void OnUpdate(){
@@ -33,6 +33,8 @@ namespace YACS2DGE{
 
             player.Position.x += HorizontalAxis * MoveSpeed;
             player.Position.y += VerticalAxis * MoveSpeed;
+
+            Networking.SendData($"{player.Position.x},{player.Position.y}", 6969, "127.0.0.1");
 
             gun.Position = player.Position;
             
