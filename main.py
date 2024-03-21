@@ -9,6 +9,10 @@ dt = 0
 movment_speed = 15
 movement_mutipler = 1
 
+player_spritesheet = pygame.image.load('Sprites/player_spritesheet.png')
+
+# add fluffy tail to char
+
 player_pos = pygame.Vector2(screen.get_width() / 2, screen.get_height() / 2)
 
 while running:
@@ -18,7 +22,7 @@ while running:
 
     screen.fill("purple")
 
-    pygame.draw.circle(screen, "red", player_pos, 40)
+    screen.blit(player_spritesheet, (player_pos.x, player_pos.y)) 
 
     keys = pygame.key.get_pressed()
     vertical = keys[pygame.K_s] - keys[pygame.K_w]
